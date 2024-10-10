@@ -1,0 +1,138 @@
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\bin\Debug\Test.dll
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\bin\Debug\Test.pdb
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\bin\Debug\Source.exe
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\bin\Debug\Source.pdb
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\obj\Debug\Test.dll
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\obj\Debug\Test.pdb
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\bin\Debug\Test.dll
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\bin\Debug\Test.pdb
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\bin\Debug\Source.exe
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\bin\Debug\Source.pdb
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\obj\Debug\Test.dll
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\obj\Debug\Test.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris\Test\bin\Debug\Test.dll
+C:\Users\brackenj\Desktop\TP2_Tetris\Test\bin\Debug\Test.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\brackenj\Desktop\TP2_Tetris\Test\bin\Debug\Source.exe
+C:\Users\brackenj\Desktop\TP2_Tetris\Test\bin\Debug\Source.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris\Test\bin\Debug\Source.exe.config
+C:\Users\brackenj\Desktop\TP2_Tetris\Test\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\brackenj\Desktop\TP2_Tetris\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\brackenj\Desktop\TP2_Tetris\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\brackenj\Desktop\TP2_Tetris\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\brackenj\Desktop\TP2_Tetris\Test\obj\Debug\Test.dll
+C:\Users\brackenj\Desktop\TP2_Tetris\Test\obj\Debug\Test.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris4\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\brackenj\Desktop\TP2_Tetris4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\brackenj\Desktop\TP2_Tetris4\Test\obj\Debug\Test.dll
+C:\Users\brackenj\Desktop\TP2_Tetris4\Test\obj\Debug\Test.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris4\Test\bin\Debug\Test.dll
+C:\Users\brackenj\Desktop\TP2_Tetris4\Test\bin\Debug\Test.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris4\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\brackenj\Desktop\TP2_Tetris4\Test\bin\Debug\Source.exe
+C:\Users\brackenj\Desktop\TP2_Tetris4\Test\bin\Debug\Source.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris4\Test\bin\Debug\Source.exe.config
+C:\Users\brackenj\Desktop\TP2_Tetris4\Test\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\brackenj\Desktop\TP2_Tetris4\Test\obj\Debug\Test.csproj.CopyComplete
+U:\E4FI\TP2_Tetris5\Test\bin\Debug\Test.dll
+U:\E4FI\TP2_Tetris5\Test\bin\Debug\Test.pdb
+U:\E4FI\TP2_Tetris5\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+U:\E4FI\TP2_Tetris5\Test\bin\Debug\Source.exe
+U:\E4FI\TP2_Tetris5\Test\bin\Debug\Source.pdb
+U:\E4FI\TP2_Tetris5\Test\bin\Debug\Source.exe.config
+U:\E4FI\TP2_Tetris5\Test\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+U:\E4FI\TP2_Tetris5\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+U:\E4FI\TP2_Tetris5\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+U:\E4FI\TP2_Tetris5\Test\obj\Debug\Test.csproj.CopyComplete
+U:\E4FI\TP2_Tetris5\Test\obj\Debug\Test.dll
+U:\E4FI\TP2_Tetris5\Test\obj\Debug\Test.pdb
+F:\Cours\TP2_Tetris5\Test\bin\Debug\Test.dll
+F:\Cours\TP2_Tetris5\Test\bin\Debug\Test.pdb
+F:\Cours\TP2_Tetris5\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Cours\TP2_Tetris5\Test\bin\Debug\Source.exe
+F:\Cours\TP2_Tetris5\Test\bin\Debug\Source.pdb
+F:\Cours\TP2_Tetris5\Test\bin\Debug\Source.exe.config
+F:\Cours\TP2_Tetris5\Test\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\Cours\TP2_Tetris5\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\Cours\TP2_Tetris5\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\Cours\TP2_Tetris5\Test\obj\Debug\Test.csproj.CopyComplete
+F:\Cours\TP2_Tetris5\Test\obj\Debug\Test.dll
+F:\Cours\TP2_Tetris5\Test\obj\Debug\Test.pdb
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Test\bin\Debug\Test.dll
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Test\bin\Debug\Test.pdb
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Test\bin\Debug\Source.exe
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Test\bin\Debug\Source.pdb
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Test\bin\Debug\Source.exe.config
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Test\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Test\obj\Debug\Test.csproj.CopyComplete
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Test\obj\Debug\Test.dll
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Test\obj\Debug\Test.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris5\Test\bin\Debug\Test.dll
+C:\Users\brackenj\Desktop\TP2_Tetris5\Test\bin\Debug\Test.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris5\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\brackenj\Desktop\TP2_Tetris5\Test\bin\Debug\Source.exe
+C:\Users\brackenj\Desktop\TP2_Tetris5\Test\bin\Debug\Source.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris5\Test\bin\Debug\Source.exe.config
+C:\Users\brackenj\Desktop\TP2_Tetris5\Test\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\brackenj\Desktop\TP2_Tetris5\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\brackenj\Desktop\TP2_Tetris5\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\brackenj\Desktop\TP2_Tetris5\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\brackenj\Desktop\TP2_Tetris5\Test\obj\Debug\Test.dll
+C:\Users\brackenj\Desktop\TP2_Tetris5\Test\obj\Debug\Test.pdb
+U:\E4FI\Génie Logiciel\TP2_Tetris\Test\bin\Debug\Test.dll
+U:\E4FI\Génie Logiciel\TP2_Tetris\Test\bin\Debug\Test.pdb
+U:\E4FI\Génie Logiciel\TP2_Tetris\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+U:\E4FI\Génie Logiciel\TP2_Tetris\Test\bin\Debug\Source.exe
+U:\E4FI\Génie Logiciel\TP2_Tetris\Test\bin\Debug\Source.pdb
+U:\E4FI\Génie Logiciel\TP2_Tetris\Test\bin\Debug\Source.exe.config
+U:\E4FI\Génie Logiciel\TP2_Tetris\Test\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+U:\E4FI\Génie Logiciel\TP2_Tetris\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+U:\E4FI\Génie Logiciel\TP2_Tetris\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+U:\E4FI\Génie Logiciel\TP2_Tetris\Test\obj\Debug\Test.csproj.CopyComplete
+U:\E4FI\Génie Logiciel\TP2_Tetris\Test\obj\Debug\Test.dll
+U:\E4FI\Génie Logiciel\TP2_Tetris\Test\obj\Debug\Test.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Test\bin\Debug\Test.dll
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Test\bin\Debug\Test.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Test\bin\Debug\Source.exe
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Test\bin\Debug\Source.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Test\bin\Debug\Source.exe.config
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Test\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Test\obj\Debug\Test.dll
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Test\obj\Debug\Test.pdb
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Test\bin\Debug\Test.dll
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Test\bin\Debug\Test.pdb
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Test\bin\Debug\Source.exe
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Test\bin\Debug\Source.pdb
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Test\bin\Debug\Source.exe.config
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Test\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Test\obj\Debug\Test.dll
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Test\obj\Debug\Test.pdb
+C:\Users\jordan\Downloads\TP2_Tetris\Test\bin\Debug\Test.dll
+C:\Users\jordan\Downloads\TP2_Tetris\Test\bin\Debug\Test.pdb
+C:\Users\jordan\Downloads\TP2_Tetris\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jordan\Downloads\TP2_Tetris\Test\bin\Debug\Source.exe
+C:\Users\jordan\Downloads\TP2_Tetris\Test\bin\Debug\Source.pdb
+C:\Users\jordan\Downloads\TP2_Tetris\Test\bin\Debug\Source.exe.config
+C:\Users\jordan\Downloads\TP2_Tetris\Test\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\jordan\Downloads\TP2_Tetris\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\jordan\Downloads\TP2_Tetris\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\jordan\Downloads\TP2_Tetris\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\jordan\Downloads\TP2_Tetris\Test\obj\Debug\Test.dll
+C:\Users\jordan\Downloads\TP2_Tetris\Test\obj\Debug\Test.pdb

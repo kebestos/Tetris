@@ -1,0 +1,82 @@
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Source\bin\Debug\Source.exe.config
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Source\bin\Debug\Source.exe
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Source\bin\Debug\Source.pdb
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Source\obj\Debug\Source.csprojResolveAssemblyReference.cache
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Source\obj\Debug\Source.exe
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Source\obj\Debug\Source.pdb
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Source\bin\Debug\Source.exe.config
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Source\obj\Debug\Source.exe
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Source\obj\Debug\Source.pdb
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Source\bin\Debug\Source.exe
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Source\bin\Debug\Source.pdb
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Source\obj\Debug\Source.csprojResolveAssemblyReference.cache
+C:\Users\brackenj\Desktop\TP2_Tetris\Source\bin\Debug\Source.exe.config
+C:\Users\brackenj\Desktop\TP2_Tetris\Source\bin\Debug\Source.exe
+C:\Users\brackenj\Desktop\TP2_Tetris\Source\bin\Debug\Source.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris\Source\obj\Debug\Source.csprojResolveAssemblyReference.cache
+C:\Users\brackenj\Desktop\TP2_Tetris\Source\obj\Debug\Source.csproj.CoreCompileInputs.cache
+C:\Users\brackenj\Desktop\TP2_Tetris\Source\obj\Debug\Source.exe
+C:\Users\brackenj\Desktop\TP2_Tetris\Source\obj\Debug\Source.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris4\Source\bin\Debug\Source.exe.config
+C:\Users\brackenj\Desktop\TP2_Tetris4\Source\bin\Debug\Source.exe
+C:\Users\brackenj\Desktop\TP2_Tetris4\Source\bin\Debug\Source.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris4\Source\obj\Debug\Source.csprojResolveAssemblyReference.cache
+C:\Users\brackenj\Desktop\TP2_Tetris4\Source\obj\Debug\Source.csproj.CoreCompileInputs.cache
+C:\Users\brackenj\Desktop\TP2_Tetris4\Source\obj\Debug\Source.exe
+C:\Users\brackenj\Desktop\TP2_Tetris4\Source\obj\Debug\Source.pdb
+U:\E4FI\TP2_Tetris5\Source\bin\Debug\Source.exe.config
+U:\E4FI\TP2_Tetris5\Source\bin\Debug\Source.exe
+U:\E4FI\TP2_Tetris5\Source\bin\Debug\Source.pdb
+U:\E4FI\TP2_Tetris5\Source\obj\Debug\Source.csprojResolveAssemblyReference.cache
+U:\E4FI\TP2_Tetris5\Source\obj\Debug\Source.csproj.CoreCompileInputs.cache
+U:\E4FI\TP2_Tetris5\Source\obj\Debug\Source.exe
+U:\E4FI\TP2_Tetris5\Source\obj\Debug\Source.pdb
+F:\Cours\TP2_Tetris5\Source\bin\Debug\Source.exe.config
+F:\Cours\TP2_Tetris5\Source\bin\Debug\Source.exe
+F:\Cours\TP2_Tetris5\Source\bin\Debug\Source.pdb
+F:\Cours\TP2_Tetris5\Source\obj\Debug\Source.csprojResolveAssemblyReference.cache
+F:\Cours\TP2_Tetris5\Source\obj\Debug\Source.csproj.CoreCompileInputs.cache
+F:\Cours\TP2_Tetris5\Source\obj\Debug\Source.exe
+F:\Cours\TP2_Tetris5\Source\obj\Debug\Source.pdb
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Source\bin\Debug\Source.exe.config
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Source\bin\Debug\Source.exe
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Source\bin\Debug\Source.pdb
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Source\obj\Debug\Source.csprojResolveAssemblyReference.cache
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Source\obj\Debug\Source.csproj.CoreCompileInputs.cache
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Source\obj\Debug\Source.exe
+U:\E4FI\Génie Logiciel\TP2_Tetris5\Source\obj\Debug\Source.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris5\Source\obj\Debug\Source.csprojResolveAssemblyReference.cache
+C:\Users\brackenj\Desktop\TP2_Tetris5\Source\obj\Debug\Source.csproj.CoreCompileInputs.cache
+C:\Users\brackenj\Desktop\TP2_Tetris5\Source\obj\Debug\Source.exe
+C:\Users\brackenj\Desktop\TP2_Tetris5\Source\obj\Debug\Source.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris5\Source\bin\Debug\Source.exe.config
+C:\Users\brackenj\Desktop\TP2_Tetris5\Source\bin\Debug\Source.exe
+C:\Users\brackenj\Desktop\TP2_Tetris5\Source\bin\Debug\Source.pdb
+U:\E4FI\Génie Logiciel\TP2_Tetris\Source\bin\Debug\Source.exe.config
+U:\E4FI\Génie Logiciel\TP2_Tetris\Source\bin\Debug\Source.exe
+U:\E4FI\Génie Logiciel\TP2_Tetris\Source\bin\Debug\Source.pdb
+U:\E4FI\Génie Logiciel\TP2_Tetris\Source\obj\Debug\Source.csprojResolveAssemblyReference.cache
+U:\E4FI\Génie Logiciel\TP2_Tetris\Source\obj\Debug\Source.csproj.CoreCompileInputs.cache
+U:\E4FI\Génie Logiciel\TP2_Tetris\Source\obj\Debug\Source.exe
+U:\E4FI\Génie Logiciel\TP2_Tetris\Source\obj\Debug\Source.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Source\bin\Debug\Source.exe.config
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Source\bin\Debug\Source.exe
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Source\bin\Debug\Source.pdb
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Source\obj\Debug\Source.csprojResolveAssemblyReference.cache
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Source\obj\Debug\Source.csproj.CoreCompileInputs.cache
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Source\obj\Debug\Source.exe
+C:\Users\brackenj\Desktop\TP2_Tetris 2.0\Source\obj\Debug\Source.pdb
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Source\obj\Debug\Source.csprojResolveAssemblyReference.cache
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Source\obj\Debug\Source.csproj.CoreCompileInputs.cache
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Source\obj\Debug\Source.exe
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Source\obj\Debug\Source.pdb
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Source\bin\Debug\Source.exe.config
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Source\bin\Debug\Source.exe
+C:\Users\jordan\Downloads\TP2_Tetris 3.0\Source\bin\Debug\Source.pdb
+C:\Users\jordan\Downloads\TP2_Tetris\Source\bin\Debug\Source.exe.config
+C:\Users\jordan\Downloads\TP2_Tetris\Source\bin\Debug\Source.exe
+C:\Users\jordan\Downloads\TP2_Tetris\Source\bin\Debug\Source.pdb
+C:\Users\jordan\Downloads\TP2_Tetris\Source\obj\Debug\Source.csprojResolveAssemblyReference.cache
+C:\Users\jordan\Downloads\TP2_Tetris\Source\obj\Debug\Source.csproj.CoreCompileInputs.cache
+C:\Users\jordan\Downloads\TP2_Tetris\Source\obj\Debug\Source.exe
+C:\Users\jordan\Downloads\TP2_Tetris\Source\obj\Debug\Source.pdb
